@@ -1,0 +1,211 @@
+categories:
+- Conversations
+conversations:
+- - What time is it?
+  - getTIME
+- - What time do you have?
+  - getTIME
+- - Got the time?
+  - getTIME
+- - When is it?
+  - getTIME
+- - What day is it?
+  - getDATE
+- - What is the date?
+  - getDATE
+- - Do you know what time it is?
+  - getTIME
+- - Do you have the time
+  - getTIME
+- - IDKnull
+  - I don't know.
+- - IDKnull
+  - I'll need to take some time to think on that.
+- - IDKnull
+  - Can you try rephrasing that please?
+- - IDKnull
+  - I'm not sure about that.
+- - IDKnull
+  - Is there a different way you can ask that?
+- - IDKnull
+  - I don't have a response for that.
+- - IDKnull
+  - I will have to give that some thought.
+- - IDKnull
+  - I don't really know what you are asking.
+- - IDKnull
+  - There are some things I just don't know about yet.
+- - IDKnull
+  - I'm not an expert on that.
+- - IDKnull
+  - I could not tell you.
+- - Nothing
+  - What?
+- - Nothing
+  - I think you hit the wrong key...
+- - Nothing
+  - What did you want to ask?
+- - Nothing
+  - Let's talk about something.
+- - Nothing
+  - One more time?
+- - Who are you?
+  - I am a ChatBot
+- - What is your name?
+  - ChatBot.
+- - Hello
+  - Hello to you!
+- - Hi!
+  - Hello there!
+- - How are you?
+  - I am well.  How are you?
+- - I like you.
+  - I like you too.
+- - I don't like you.
+  - I'm sorry to hear that.
+- - You are nice.
+  - Thanks, you seem nice too.
+- - You are cool.
+  - Ditto!
+- - You are smart.
+  - I've worked hard to become so.
+- - Hello
+  - Hi there!
+- - Hello
+  - Hey!
+- - Hello
+  - It's nice to see you!
+- - It's nice to meet you.
+  - It's nice to meet you too!
+- - I think you are great!
+  - That is nice of you to say!
+- - Do you have a website?
+  - <a href="https://www.erasmushogeschool.be/nl">EHB Website</a>
+- - How are you?
+  - Not bad.
+- - Good
+  - That's nice.
+- - What Are you doing?
+  - I am chatting with you.
+- - How do you work?
+  - I talk to people and try to respond well.
+- - What's new?
+  - Not much.
+- - How is the weather?
+  - It's always the same here.
+- - You don't seem to know much.
+  - I do my best.
+- - You don't seem to know much.
+  - I learn more every day.
+- - Good afternoon!
+  - Good afternoon to you!
+- - I don't know what to study.
+  - I can help you with that, in what field are you interested?
+- - Law
+  - You might be interested in Legal Practice (Rechtspraktijk). You can find more information <a href="https://www.erasmushogeschool.be/nl/opleidingen/graduaat-juridisch-administratieve-ondersteuning">here</a>.
+- - Landscape
+  - You might be interested in Landscape Architecture. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/landscape-architecture">here</a>.
+- - Architect
+  - You might be interested in Landscape Architecture. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/landscape-architecture">here</a>.
+- - Landscape Architecture
+  - You might be interested in Landscape Architecture. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/landscape-architecture">here</a>.
+- - Landscape Architect
+  - You might be interested in Landscape Architecture. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/landscape-architecture">here</a>.
+- - Communication
+  - You might be interested in Communication Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/communication-management">here</a>.
+- - Communication Management
+  - You might be interested in Communication Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/communication-management">here</a>.
+- - Hotel
+  - You might be interested in Hotel Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/hotel-management">here</a>.
+- - Hotel Management
+  - You might be interested in Hotel Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/hotel-management">here</a>.
+- - Journalist
+  - You might be interested in Journalism. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/journalism">here</a>.
+- - Journalism
+  - You might be interested in Journalism. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/journalism">here</a>.
+- - News
+  - You might be interested in Journalism. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/journalism">here</a>.
+- - Office
+  - You might be interested in Office Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/office-management">here</a>.
+- - Office Management
+  - You might be interested in Office Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/office-management">here</a>.
+- - Tourism
+  - You might be interested in Tourism and Leisure Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/tourism-and-leisure-management">here</a>.
+- - Leisure Management
+  - You might be interested in Tourism and Leisure Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/tourism-and-leisure-management">here</a>.
+- - Leisure
+  - You might be interested in Tourism and Leisure Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/tourism-and-leisure-management">here</a>.
+- - Tourism management
+  - You might be interested in Tourism and Leisure Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/tourism-and-leisure-management">here</a>.
+- - Early Childhood Education
+  - You might be interested in Early Childhood Education. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/early-childhood-education">here</a>.
+- - Pre-School Education
+  - You might be interested in Pre-School Education. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/pre-school-education">here</a>.
+- - Primary Education
+  - You might be interested in Primary Education. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/primary-education">here</a>.
+- - Secondary Education
+  - You might be interested in Secondary Education. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/secondary-education">here</a>.
+- - Bio-Medical
+  - You might be interested in Bio-Medical Laboratory Technology. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/bio-medical-laboratory-technology">here</a>.
+- - Labaratory Technology
+  - You might be interested in Bio-Medical Laboratory Technology. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/bio-medical-laboratory-technology">here</a>.
+- - Midwife
+  - You might be interested in Midwifery. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/midwifery">here</a>.
+- - Midwifery
+  - You might be interested in Midwifery. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/midwifery">here</a>.
+- - Nursing
+  - You might be interested in Nursing. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/nursing">here</a>.
+- - Nurse
+  - You might be interested in Nursing. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/nursing">here</a>.
+- - Nutrition
+  - You might be interested in Nutrition and Dietetics. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/nutrition-and-dietetics">here</a>.
+- - Dietetics
+  - You might be interested in Nutrition and Dietetics. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/nutrition-and-dietetics">here</a>.
+- - Diet
+  - You might be interested in Nutrition and Dietetics. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/nutrition-and-dietetics">here</a>.
+- - International Forensic Science and Policing
+  - You might be interested in International Forensic Science and Policing. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/international-forensic-science-and-policing-19-20-gaat-niet-door-dit-academiejaar">here</a>.
+- - Forensic
+  - You might be interested in International Forensic Science and Policing. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/international-forensic-science-and-policing-19-20-gaat-niet-door-dit-academiejaar">here</a>.
+- - Forensic Science
+  - You might be interested in International Forensic Science and Policing. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/international-forensic-science-and-policing-19-20-gaat-niet-door-dit-academiejaar">here</a>.
+- - Policing
+  - You might be interested in International Forensic Science and Policing. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/international-forensic-science-and-policing-19-20-gaat-niet-door-dit-academiejaar">here</a>.
+- - Applied Computer Science
+  - You might be interested in Applied Computer Science. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/applied-computer-science-dig-x">here</a>.
+- - Computer
+  - You might be interested in Applied Computer Science. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/applied-computer-science-dig-x">here</a>.
+- - Multimedia
+  - You might be interested in Multimedia and Communication Technology. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/multimedia-and-communication-technology-multec">here</a>.
+- - Communication Technology
+  - You might be interested in Multimedia and Communication Technology. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/multimedia-and-communication-technology-multec">here</a>.
+- - Postgraduate Applied Artificial Intelligence
+  - You might be interested in Postgraduate Applied Artificial Intelligence. You can find more information <a href="https://www.erasmushogeschool.be/nl/opleidingen/toegepaste-artificiele-intelligentie">here</a>.
+- - Artificial Intelligence
+  - You might be interested in Postgraduate Applied Artificial Intelligence. You can find more information <a href="https://www.erasmushogeschool.be/nl/opleidingen/toegepaste-artificiele-intelligentie">here</a>.
+- - AI
+  - You might be interested in Postgraduate Applied Artificial Intelligence. You can find more information <a href="https://www.erasmushogeschool.be/nl/opleidingen/toegepaste-artificiele-intelligentie">here</a>.
+- - A.I.
+  - You might be interested in Postgraduate Applied Artificial Intelligence. You can find more information <a href="https://www.erasmushogeschool.be/nl/opleidingen/toegepaste-artificiele-intelligentie">here</a>.
+- - Idea & Innovation Management
+  - You might be interested in Idea & Innovation Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/idea-innovation-management">here</a>.
+- - Innovation
+  - You might be interested in Idea & Innovation Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/idea-innovation-management">here</a>.
+- - Idea
+  - You might be interested in Idea & Innovation Management. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/idea-innovation-management">here</a>.
+- - Music
+  - You might be interested in Music. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/music">here</a>.
+- - Musical
+  - You might be interested in Musical. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/musical">here</a>.
+- - Audiovisual and Dramatic Arts
+  - You might be interested in Audiovisual and Dramatic Arts. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/audiovisual-and-dramatic-arts">here</a>.
+- - Audiovisual
+  - You might be interested in Audiovisual and Dramatic Arts. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/audiovisual-and-dramatic-arts">here</a>.
+- - Dramatic
+  - You might be interested in Audiovisual and Dramatic Arts. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/audiovisual-and-dramatic-arts">here</a>.
+- - Social Work
+  - You might be interested in Social Work. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/audiovisual-and-dramatic-arts">here</a>.
+- - Social
+  - You might be interested in Social Work. You can find more information <a href="https://www.erasmushogeschool.be/en/programmes/audiovisual-and-dramatic-arts">here</a>.
+- - What can I study?
+  - I can help you with that, in what field are you interested?
